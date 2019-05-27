@@ -1,0 +1,29 @@
+{
+  "opportunities": [
+    {
+      "id": 1,
+      "name": "Ithaka Product",
+      "probability": 50,
+      "email": "ithaka@gmail.com",
+      "phone": "123-456-7890",
+      "notes": "Person wanted to contact us only via email",
+      "history": [
+        {
+          "probability": 10,
+          "date": "2019-05-28T13:37:27+00:00"
+        },
+        {
+          "probability": 20,
+          "date": "2019-05-28T13:37:27+00:00"
+        },
+        {
+          "probability": 35,
+          "date": "2019-05-28T13:37:27+00:00"
+        },
+      ]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
